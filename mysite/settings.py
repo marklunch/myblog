@@ -25,7 +25,7 @@ SECRET_KEY = 'kjynx(46m7bmx!yozy@=zp+=16n&o7i%ap2x@-j2&i7)3h-g5&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.mjldata.com', '127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['.mjldata.com', '127.0.0.1', 'mjldata.pythonanywhere.com']
 
 
 # Application definition
